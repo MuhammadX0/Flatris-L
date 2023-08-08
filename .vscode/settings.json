@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/e5230397-7fed-491d-b3cd-4cced8b66205/resourceGroups/odh-test-mfakkarSub/providers/Microsoft.Web/sites/appA1",
+    "appService.deploySubpath": "."
+}
